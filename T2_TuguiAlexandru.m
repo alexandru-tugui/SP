@@ -40,8 +40,8 @@ figure (2);
 stem([0:n]*w0,A,'b'); 
 title('SPECTRUL DE AMPLITUDINI AL SEMNALULUI ');
 
-%Seria Fourier Armonica descompune semnalul într-o sum? de semnale cosinusoidale (numite
-%mai departe componente) ale c?ror frecven?e sunt multipli ai frecven?ei de
-%repeti?ie a semnalului periodic. Aceste componente se mai numesc armonici.
+%Seria Fourier Armonica descompune semnalul Ã®ntr-o suma de semnale cosinusoidale (numite
+%mai departe componente) ale caror frecvente sunt multipli ai frecventei de
+%repetitie a semnalului periodic. Aceste componente se mai numesc armonici.
 %Utilizant un numar N=50 de armonici, semnalul reconstruit se apropie de
 %cel initial insa are o oarecare marja de eroare
